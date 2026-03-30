@@ -206,22 +206,22 @@ Each row represents **one patient** who underwent a medical examination, with th
 
 ## 🚀 How to Run
 
-### Option: Google Colab
+### Google Colab
 
-```
-1. Open the notebook:
-   👉 (https://colab.research.google.com/drive/1QwVpBq_hEQJl069BxsDo2fmcq_if0pZ0#scrollTo=6Bm0cY23yvHQ)
+1. **Open the notebook:**
+   👉 [Click here to open in Google Colab](https://colab.research.google.com/drive/1QwVpBq_hEQJl069BxsDo2fmcq_if0pZ0#scrollTo=6Bm0cY23yvHQ)
 
-2. Download the dataset from Kaggle:
-   https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
-   File name: cardio_train.csv
+2. **Download the dataset from Kaggle:**
+   [Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
+   * **File name:** `cardio_train.csv`
 
-3. Upload cardio_train.csv to your Colab session:
-   Left sidebar → Files icon → Upload
+3. **Upload to Colab:**
+   Left sidebar → Files icon → Upload `cardio_train.csv`
 
-4. Run all cells:
-   Runtime → Run All  (Ctrl + F9)
-```
+4. **Run all cells:**
+   `Runtime` → `Run All` (Ctrl + F9)
+
+
 
 ### Dependencies (auto-installed in Colab)
 ```python
